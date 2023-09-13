@@ -3,7 +3,8 @@
     <h1>New user Registrtaion</h1>
     <br> 
     <h2> Register to continue okay</h2>
-    <p>Please fill in this form to create an account.</p>
+
+    <p>Please fill  this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
