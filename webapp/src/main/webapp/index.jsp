@@ -16,7 +16,7 @@
     <br>
 
     <label for="location"><b>Enter location</b></label>
-    <input type="text" placeholder="Enter the location" name="location" id="location" required>
+    <input type="text" placeholder="Enter the locations" name="location" id="location" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
